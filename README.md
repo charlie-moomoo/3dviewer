@@ -1,6 +1,6 @@
 <div id="top">
 <h1>3dviewer</h1>
-一個基於<code><model-viewer></code>，可以快速查看glb檔的工具
+一個基於<code>&lt;model-viewer&gt;</code>，可以快速查看glb檔的工具
 </div>
 
 <div id="how-to">
