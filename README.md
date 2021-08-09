@@ -6,7 +6,7 @@
 你可以參考下面的常見問答集!
 <details>
 <summary>手邊沒有glb檔嗎?</summary>
-你可以先用[牛牛](http://3dv.c-moo.cf//milkgreen-3d/牛牛%20全身.glb)或[pingsock](http://3dv.c-moo.cf/pingsock.glb)嘗鮮一下。
+  你可以先用[<a href="http://3dv.c-moo.cf//milkgreen-3d/牛牛%20全身.glb">牛牛</a>]()或[pingsock](http://3dv.c-moo.cf/pingsock.glb)嘗鮮一下。
 </details>
 <details>
 <summary>懶得打網址嗎?</summary>
