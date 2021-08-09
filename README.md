@@ -5,8 +5,8 @@
 # 有一些問題嗎?
 你可以參考下面的常見問答集!
 <details>
-<summary>手邊沒有glb檔嗎?</summary>
-  你可以先用[<a href="http://3dv.c-moo.cf//milkgreen-3d/牛牛%20全身.glb">牛牛</a>]()或[pingsock](http://3dv.c-moo.cf/pingsock.glb)嘗鮮一下。
+  <summary><h2>手邊沒有glb檔嗎?</h2></summary>
+  你可以先用<a href="http://3dv.c-moo.cf//milkgreen-3d/牛牛%20全身.glb">牛牛</a>或<a href="http://3dv.c-moo.cf/pingsock.glb">pingsock</a>嘗鮮一下。
 </details>
 <details>
 <summary>懶得打網址嗎?</summary>
