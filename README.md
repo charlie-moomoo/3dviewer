@@ -18,5 +18,5 @@
 </details>
 <details>
 <summary>你的問題沒有出現在這?</summary>
-你可以<a href="https://github.com/charlie-moomoo/3dviewer/issues/new?assignees=&labels=&template=----.md&title=%5B%E5%95%8F%E9%A1%8C%5D">點擊這裡</a>來直接的問問題!
+你可以<a href="https://github.com/charlie-moomoo/3dviewer/issues/new?assignees=&labels=&template=----.md&title=%5B%E5%95%8F%E9%A1%8C%5D">點擊這裡</a>來直接的問問題，或是<a href="https://github.com/charlie-moomoo/3dviewer/issues?q=label%3Ahelp">點擊這裡</a>來看看你的問題有沒有被問過了!
 </details>
