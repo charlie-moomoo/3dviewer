@@ -30,7 +30,7 @@
 <div id="want-exe">
 <details>
 <summary>想要使用exe版嗎?</summary>
-你可以參考<a href="https://github.com/charlie-moomoo/3dviewer-exe/blob/main/README.md">我寫的教學</a>!
+你可以參考<a href="https://github.com/charlie-moomoo/3dviewer-exe/blob/main/README.md#top">我寫的教學</a>!
 </details>
 </div>
 
