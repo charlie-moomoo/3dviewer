@@ -29,8 +29,15 @@
 
 <div id="want-exe">
 <details>
-<summary>想要使用exe版嗎?</summary>
+<summary>想要使用EXE版嗎?</summary>
 你可以參考<a href="https://github.com/charlie-moomoo/3dviewer-exe/blob/main/README.md#top">我寫的教學</a>!
+</details>
+</div>
+
+<div id="exe-error">
+<details>
+<summary>EXE版的彈出框顯示錯誤嗎嗎?</summary>
+你可能下載到舊版了。新版已經修正這個錯誤了!到<a href="https://github.com/charlie-moomoo/3dviewer-exe/blob/main/README.md#top">這裡</a>重新下載一次吧!
 </details>
 </div>
 
